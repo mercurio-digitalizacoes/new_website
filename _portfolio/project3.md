@@ -1,17 +1,17 @@
 ---
-title: Projeto 3 - 3DHeritage
-subtitle: Equipamento para digitalização de alta qualidade de objetos de pequeno porte.
+title: Arquivo Histórico da Escola Politécnica da USP
+subtitle: Implementação e customização de repositório digital utilizando o software AtoM.
 image: assets/img/portfolio/03-full.jpg
-alt: Objeto de pequeno porte
+alt:
 
 caption:
-  title: 3DHeritage
-  subtitle: Solução para objetos de pequeno porte
+  title: Arquivo Histórico da Escola Politécnica da USP
+  subtitle: Implementação e customização de repositório digital.
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Projeto para o desenvolvimento e implementação do terceiro equipamento a ser desenvolvido pela equipe. Este engloba inovações na captura, processamento, geração dos mosaicos finais e geração dos modelos tridimensionais dos objetos. Inicialmente, o equipamento será utilizado para digitalizar objetos de pequeno porte e diferentes geometrias, texturas e cores. O objetivo deste projeto é desenvolver um equipamento que permita a digitalização em alta qualidade de objetos históricos e culturais, considerando aspectos de custos, tempos, e democratização do conhecimento. Este poderá ser utilizado por instituições de diferentes portes, sendo indicado para instituições de médio e grade portes para a realização de digitalização in loco.
+Projeto com fomento da Lei Federal de Incentivo à Cultura (Lei Rouanet) e patrocínio de Ultra, Comgas, Itaú, Scopus, Racional e AWS. Este envolveu: definição de arquitetura da informação do repositório digital considerando diferentes tipos de documentos; interação com duas equipes de digitalização; desenho de processos para tratamento e disponibilização dos documentos; e implementação e customização do software AtoM. <a href="http://www.arquivohistorico.poli.usp.br/">Link para acesso ao repositório digital</a>.
 
 {:.list-inline}
-- Data: 2021 - em andamento
-- Design modular e portátil
-- Categoria: Equipamento para digitalização de objetos de pequeno porte
+- Data: 2017-2019
+- Projeto completo de desenho, customização e implementação de repositório digital
+- Categoria: Implementação de repositórios digitais

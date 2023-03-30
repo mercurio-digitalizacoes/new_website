@@ -44,40 +44,30 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Acervo Digital do Instituto Hercule Florence (IHF)"
-        year: "2019-2020"
-        desc: "Implementação, customização para melhorar acessibilidade, e manutenção de repositório digital da instituição, utilizando o software DSpace." <a href="http://13.82.108.85:8080/jspui/">URL para acesso</a>.
+      - title: "Primeiros projetos de digitalização"
+        year: "2016-2017"
+        desc: "Primeiros projetos de digitalização e implementação de repositórios utilizando os softwares DSpace e AtoM e hardware já existente."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Primeira máquina: Lighter"
-        year: "2019"
-        desc: "Desenvolvimento e implementação do primeiro equipamento desenvolvido pela equipe, voltado à digitalização de alta qualidade de documentos encadernados utilizando smartphones."
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Início P&D"
-        year: "2019"
-        desc: "Desenho dos processos de P&D da empresa e início de esforços voltados ao atendimento dos requisitos das instituições parceiras, focando em três componentes principais: hardware, software e processos operacionais."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Segunda máquina: Talos"
-        year: "2019-2020"
-        desc: "Desenvolvimento e implementação do segundo equipamento desenvolvido pela empresa, voltado à digitalização de alta qualidade de documentos frágeis de grandes dimensões (maiores que A2). Este projeto recebeu apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) através do programa de Pesquisa Inovativa em Pequenas Empresas (PIPE), processo número 18/22384-9."
+      - title: "Obtenção de projetos mais complexos"
+        year: "2018-2019"
+        desc: "Projetos de maior complexidade, envolvendo maior volume de documentos, diferentes estados de conservação, e repositórios digitais com maior volume de acessos e funcionalidades adicionais."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Melhorias: Lighter e Talos"
-        year: "2021"
-        desc: "Realização de diversas melhorias nos equipamentos desenvolvidos, visando: melhorar os processos operacionais, facilitar transporte e operação, e melhorar seus designs."
-        image: assets/img/timeline/5.jpg
+      - title: "Início de atividades de P&D"
+        year: "2019-Atual"
+        desc: "Desenho dos processos de P&D da empresa e início de esforços voltados ao atendimento dos requisitos das instituições parceiras, focando em três componentes principais: hardware, software e processos operacionais."
+        image: assets/img/timeline/3.jpg
         alt:
-      - title: "Início P&D em IA"
-        year: "2021"
-        desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&G em Inteligência Artificial."
+      - title: "Fornecimento de soluções completas"
+        year: "2020-Atual"
+        desc: "Desenvolvimento de máquinas e software próprios, uso de IA para extração de conhecimento, e fornecimento de soluções completas de digitalização e customização e desenvolvimento de software."
         image: assets/img/timeline/6.jpg
         alt:
-      - title: "Terceira máquina: 3DHeritage"
-        year: "2021-2023"
-        desc: "Atualmente, a empresa encontra-se desenvolvendo a sua terceira máquina. Esta é voltada à digitalização de objetos tridimensionais frágeis em alta qualidade, reduzindo consideravelmente o tempo de digitalização e aumentando a qualidade dos modelos tridimensionais gerados."
-        image: assets/img/timeline/7.jpg
+      - title: "Início de atividades de P&D em IA"
+        year: "2021"
+        desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&D em Inteligência Artificial."
+        image: assets/img/timeline/5.jpg
         alt:
         # you can enforce the alignment
 #         align: right
@@ -86,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "Sobre a Mercúrio"
     text: "Nossa história"
-    body: "A Vulcano Equipamentos para Digitalização é uma empresa especializada no desenvolvimento de equipamentos para digitalização de documentos de grandes dimensões e de documentos frágeis. Nosso principal interesse é em digitalizar documentos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos (especificamente mapas e plantas arquitetônicas de grandes dimensões) e permitir a sua democratização através de repositórios digitais. Nossas soluções permitem que as instituições possam digitalizar os seus acervos sem a necessidade de equipes especializadas. Nossa metodologia engloba todas as etapas, desde a identificação de requisitos à disponibilização das imagens finais em alta qualidade. "
+    body: "A Mercúrio Digitalizações é uma empresa especializada no desenvolvimento de soluções completas para a digitalização de documentos e implementação de repositórios digitais voltados a acervos históricos e culturais. Nosso principal interesse é em aumentar a acessibilidade e disponibilidade de documentos de acervos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos e formatos, e permitir a sua democratização através de repositórios digitais. Nossas soluções permitem que as instituições possam digitalizar os seus acervos sem a necessidade de equipes especializadas. Nossa metodologia engloba todas as etapas, desde a identificação de requisitos à disponibilização das imagens finais em alta qualidade em repositórios digitais desenvolvidos e customizados considerando as necessidades da instituição."
     section: about
 
 #   clients:
@@ -117,10 +107,10 @@ en: &DEFAULT_EN
         role: "Desenvolvedor"
         image: assets/img/team/fernando.png
         social:
-          - url: https://twitter.com/fhattori
-            icon: fab fa-twitter
-          - url: https://www.facebook.com/fernando.hattori
-            icon: fab fa-facebook-f
+          # - url: https://twitter.com/fhattori
+            # icon: fab fa-twitter
+          # - url: https://www.facebook.com/fernando.hattori
+            # icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/fernandohattori
             icon: fab fa-linkedin-in
       - name: "Roberto Fray da Silva"
@@ -133,7 +123,17 @@ en: &DEFAULT_EN
 #             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/robertofraysilva
             icon: fab fa-linkedin-in
-#       - name: "Diana Perterson"
+      - name: "Carlos Agarie"
+        role: "Gerente de projetos"
+        image: assets/img/team/carlos.png
+        social:
+          # - url: https://twitter.com/fhattori
+            # icon: fab fa-twitter
+          # - url: https://www.facebook.com/fernando.hattori
+            # icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/carlos-agarie-99469012
+            icon: fab fa-linkedin-in
+      # - name: "Diana Perterson"
 #         role: "Lead Developer"
 #         image: assets/img/team/500x500.jpg
 #         social:
