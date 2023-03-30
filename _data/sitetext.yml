@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Consultoria especializada em implementação de repositórios digitais e digitalização de documentos
+    title: Implementação e customização de repositórios digitais, preservação digital e digitalização de documentos
 #     text: Digitalização em alta qualidade de documentos frágeis e de grandes dimensões
     button: Saiba mais
     buttonlink: "#services"
@@ -21,14 +21,14 @@ en: &DEFAULT_EN
     text: "Nossos principais serviços"
     section: services
     list:
-      - title: "Desenho de máquinas"
-        desc: "Desenhamos e projetamos máquinas para digitalização de documentos e objetos culturais e históricos, considerando os requisitos específicos das instituições."
+      - title: "Implementação de repositórios digitais"
+        desc: "Desenhamos, customizamos, e implementamos repositórios digitais utilizando ferramentas open source para todos os tipos de acervos, considerando os requisitos específicos das instituições."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
-      - title: "Construção de máquinas"
-        desc: "Construímos máquinas específicas para a sua instituição ou projeto, permitindo a digitalização em alta qualidade de acervos institucionais."
+      - title: "Consultoria em projetos de digitalização"
+        desc: "Auxiliamos no desenho e implementação de projetos completos de digitalização e preservação digital, envolvendo hardware, software, e processos operacionais."
         icon: fas fa-cogs
       - title: "Serviços de digitalização in-loco"
-        desc: "Possuímos uma equipe especializada com mais de cinco anos de experiência digitalizando documentos frágeis, de grandes dimensões, e de difícil manuseio"
+        desc: "Possuímos uma equipe especializada com mais de oito anos de experiência digitalizando documentos frágeis, de grandes dimensões, e de difícil manuseio"
         icon: far fa-file-image
 
   portfolio:
@@ -44,9 +44,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Digitalização de Documentos"
-        year: "2016-2019"
-        desc: "Formação e especialização dos membros da equipe através de diversos projetos de digitalização e implementação de repositórios digitais em instituições de pequeno, médio e grande portes."
+      - title: "Acervo Digital do Instituto Hercule Florence (IHF)"
+        year: "2019-2020"
+        desc: "Implementação, customização para melhorar acessibilidade, e manutenção de repositório digital da instituição, utilizando o software DSpace." <a href="http://13.82.108.85:8080/jspui/">URL para acesso</a>.
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Primeira máquina: Lighter"
