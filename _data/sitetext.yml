@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Auxiliamos no desenho e implementação de projetos completos de digitalização e preservação digital, envolvendo hardware, software, e processos operacionais."
         icon: fas fa-cogs
       - title: "Serviços de digitalização in-loco"
-        desc: "Possuímos uma equipe especializada com mais de oito anos de experiência digitalizando documentos frágeis, de grandes dimensões, e de difícil manuseio"
+        desc: "Possuímos uma equipe especializada com mais de oito anos de experiência digitalizando documentos de todos os tipos, incluindo documentos frágeis, de grandes dimensões, e de difícil manuseio"
         icon: far fa-file-image
 
   portfolio:
@@ -65,7 +65,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/6.jpg
         alt:
       - title: "Início de atividades de P&D em IA"
-        year: "2021"
+        year: "2021-Atual"
         desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&D em Inteligência Artificial."
         image: assets/img/timeline/5.jpg
         alt:
