@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Consultoria especializada em implementação de repositórios digitais e digitalização de documentos históricos
+    title: Consultoria especializada em implementação de repositórios digitais e digitalização de documentos
 #     text: Digitalização em alta qualidade de documentos frágeis e de grandes dimensões
     button: Saiba mais
     buttonlink: "#services"
@@ -84,7 +84,7 @@ en: &DEFAULT_EN
     end: "Faça parte de nossa história!"
 
   about:
-    title: "Sobre a Vulcano"
+    title: "Sobre a Mercúrio"
     text: "Nossa história"
     body: "A Vulcano Equipamentos para Digitalização é uma empresa especializada no desenvolvimento de equipamentos para digitalização de documentos de grandes dimensões e de documentos frágeis. Nosso principal interesse é em digitalizar documentos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos (especificamente mapas e plantas arquitetônicas de grandes dimensões) e permitir a sua democratização através de repositórios digitais. Nossas soluções permitem que as instituições possam digitalizar os seus acervos sem a necessidade de equipes especializadas. Nossa metodologia engloba todas as etapas, desde a identificação de requisitos à disponibilização das imagens finais em alta qualidade. "
     section: about

@@ -18,11 +18,11 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/teste-site" # the subpath of your site, e.g. /blog
 
 # title      : Vulcano Equipamentos para Digitalização
-title      : Vulcano Equipamentos
+title      : Mercúrio Digitalizações
 email      : fhattori@gmail.com #this is also the email contact forms will go to
-description: "Vulcano Equipamentos: Pesquisa e desenvolvimento de maquinário para digitalização de documentos históricos e culturais"
+description: "Mercúrio Digitalizações: Implementação de repositórios digitais e digitalização de documentos históricos"
 # author     : Vulcano Equipamentos para Digitalização
-author     : Vulcano Equipamentos
+author     : Mercúrio Digitalizações
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
